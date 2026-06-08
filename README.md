@@ -60,7 +60,7 @@
 
 🤖 **Customer Churn Prediction**
 
-🔍** Objective**: Predict customer churn for a telecom service.
+🔍 **Objective:** Predict customer churn for a telecom service.
 
 🛠️ **Tools:** Python, Power BI, Logistic Regression, Random Forest
 
@@ -82,7 +82,7 @@
 
 • Service-related issues influenced customer attrition.
 
-✅** Result:** Enabled strategic customer retention planning based on model outcomes.
+✅**Result:** Enabled strategic customer retention planning based on model outcomes.
 
 ## 🏆 Certifications
 
