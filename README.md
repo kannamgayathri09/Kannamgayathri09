@@ -5,8 +5,8 @@
 🎓 MBA Business Analytics Student  
 📊 Aspiring Data Analyst & Data Science Enthusiast  
 💡 Passionate about turning data into actionable insights  
-📈 Skilled in Python, SQL, Power BI, and Excel  
-🚀 Always learning new technologies in Data Analytics & Machine Learning
+📈 Skilled in Python, SQL, Power BI,Excel and machine learning 
+🚀 Always learning new technologies in Data Analytics & Data Science
 
 ## 🛠️ Skills
 
@@ -87,7 +87,7 @@
 ## 🏆 Certifications
 
 📜 Data Science Certification – Teks Academy  
-📚 Python | SQL | Statistics | Machine Learning | Power BI | EDA
+📚 Python | SQL | Statistics | Machine Learning | Power BI | EDA | DL | NLP
 
 🥇 Academic Excellence Certification
 
