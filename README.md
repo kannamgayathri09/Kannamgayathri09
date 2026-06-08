@@ -5,8 +5,7 @@
 🎓 MBA Business Analytics Student  
 📊 Aspiring Data Analyst & Data Science Enthusiast  
 💡 Passionate about turning data into actionable insights  
-📈 Skilled in Python, SQL, Power BI,Excel and machine learning 
-
+📈 Skilled in Python, SQL, Power BI,Excel and machine learning
 🚀 Always learning new technologies in Data Analytics & Data Science
 
 ## 🛠️ Skills
