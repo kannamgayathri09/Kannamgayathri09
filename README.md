@@ -37,16 +37,16 @@
 🛠️ **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI
 
 **Process:**
-**•** Cleaned and preprocessed passenger data.
-**•** Performed Exploratory Data Analysis (EDA).
-**•** Analyzed survival patterns across gender, age, and passenger class.
-**•** Created visualizations and dashboards to communicate insights.
+•Cleaned and preprocessed passenger data.
+•Performed Exploratory Data Analysis (EDA).
+•Analyzed survival patterns across gender, age, and passenger class.
+•Created visualizations and dashboards to communicate insights.
 
 **Insights:**
-**• **Female passengers had higher survival rates.
-**•** First-class passengers were more likely to survive.
-**•** Children showed better survival chances.
-**• **Higher fare-paying passengers had higher survival rates.
+•Female passengers had higher survival rates.
+•First-class passengers were more likely to survive.
+•Children showed better survival chances.
+•Higher fare-paying passengers had higher survival rates.
 
 ✅ **Result:** Generated actionable insights through data visualization and reporting.
 
