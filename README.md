@@ -37,6 +37,7 @@
 🛠️ **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI
 
 **Process:**
+
 •Cleaned and preprocessed passenger data.
 
 •Performed Exploratory Data Analysis (EDA).
@@ -46,6 +47,7 @@
 •Created visualizations and dashboards to communicate insights.
 
 **Insights:**
+
 •Female passengers had higher survival rates.
 
 •First-class passengers were more likely to survive.
@@ -58,22 +60,29 @@
 
 🤖 **Customer Churn Prediction**
 
-🔍 Objective: Predict customer churn for a telecom service.
+🔍** Objective**: Predict customer churn for a telecom service.
 
-🛠️ Tools: Python, Power BI, Logistic Regression, Random Forest
+🛠️ **Tools:** Python, Power BI, Logistic Regression, Random Forest
 
-Process:
+**Process:**
+
 • Cleaned and preprocessed customer datasets.
+
 • Conducted EDA to identify churn drivers.
+
 • Built Logistic Regression and Random Forest models.
+
 • Compared model performance using evaluation metrics.
 
-Insights:
+**Insights:**
+
 • Month-to-month customers showed higher churn risk.
+
 • Auto-pay customers had lower churn rates.
+
 • Service-related issues influenced customer attrition.
 
-✅ Result: Enabled strategic customer retention planning based on model outcomes.
+✅** Result:** Enabled strategic customer retention planning based on model outcomes.
 
 ## 🏆 Certifications
 
