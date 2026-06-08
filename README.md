@@ -36,40 +36,36 @@
 
 🛠️ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI
 
-📈 Process:
+Process:
+• Cleaned and preprocessed passenger data.
+• Performed Exploratory Data Analysis (EDA).
+• Analyzed survival patterns across gender, age, and passenger class.
+• Created visualizations and dashboards to communicate insights.
 
-🧹 Cleaned and preprocessed passenger data.
-📊 Performed Exploratory Data Analysis (EDA).
-🔎 Analyzed survival patterns across gender, age, and passenger class.
-📈 Created visualizations and dashboards to communicate insights.
-
-💡 Insights:
-
-👩 Female passengers had higher survival rates.
-🏆 First-class passengers were more likely to survive.
-👶 Children showed better survival chances.
-💰 Higher fare-paying passengers had higher survival rates.
+Insights:
+• Female passengers had higher survival rates.
+• First-class passengers were more likely to survive.
+• Children showed better survival chances.
+• Higher fare-paying passengers had higher survival rates.
 
 ✅ Result: Generated actionable insights through data visualization and reporting.
 
-🤖** Customer Churn Prediction**
+🤖 **Customer Churn Prediction**
 
 🔍 Objective: Predict customer churn for a telecom service.
 
-🛠️ Tools: Python, Power BI, Logistic Regression
+🛠️ Tools: Python, Power BI, Logistic Regression, Random Forest
 
-📈 Process:
+Process:
+• Cleaned and preprocessed customer datasets.
+• Conducted EDA to identify churn drivers.
+• Built Logistic Regression and Random Forest models.
+• Compared model performance using evaluation metrics.
 
-🧹 Cleaned and preprocessed customer datasets.
-📊 Conducted EDA to identify churn drivers.
-🤖 Built Logistic Regression and Random Forest models.
-📈 Compared model performance using evaluation metrics.
-
-💡 Insights:
-
-📱 Month-to-month customers showed higher churn risk.
-💳 Auto-pay customers had lower churn rates.
-📞 Service-related issues influenced customer attrition.
+Insights:
+• Month-to-month customers showed higher churn risk.
+• Auto-pay customers had lower churn rates.
+• Service-related issues influenced customer attrition.
 
 ✅ Result: Enabled strategic customer retention planning based on model outcomes.
 
