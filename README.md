@@ -62,6 +62,7 @@
 🔍 **Objective:** Predict customer churn for a telecom service.
 
 🛠️ **Tools:** Python, Power BI, Logistic Regression, Random Forest
+https://github.com/kannamgayathri09/Telecom-churn-project
 
 **Process:**
 
