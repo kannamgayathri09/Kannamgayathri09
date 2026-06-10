@@ -35,6 +35,8 @@
 
 🛠️ **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
+https://github.com/kannamgayathri09/Hospital-Dataset-EDA
+
 **Process:**
 
 • Data Exploration: Performed data exploration to understand dataset structure and key healthcare metrics.
