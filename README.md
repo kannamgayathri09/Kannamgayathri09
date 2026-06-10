@@ -29,33 +29,42 @@
 
 ## 🚀 My Projects & Insights
 
-📊 **Titanic Survival Analysis**
+🏥 **Hospital Data Analysis**
 
-🔍 **Objective:** Analyze passenger data and identify factors influencing survival in the Titanic disaster.
+🔍 **Objective:** Analyze hospital patient records to identify patterns in treatment costs, diagnoses, hospital departments, patient demographics, and healthcare operations.
 
-🛠️ **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI
+🛠️ **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 **Process:**
 
-• Cleaned and preprocessed passenger data.
+• Data Exploration: Performed data exploration to understand dataset structure and key healthcare metrics.
 
-• Performed Exploratory Data Analysis (EDA).
+• Data Cleaning: Cleaned data by checking missing values, duplicates, and outliers.
 
-• Analyzed survival patterns across gender, age, and passenger class.
+• Cost Analysis: Analyzed treatment costs across different diagnoses and hospital departments.
 
-• Created visualizations and dashboards to communicate insights.
+• Demographic Analysis: Examined patient demographics based on gender and city distribution.
+
+• Length of Stay Analysis: Evaluated average length of stay for various medical diagnoses.
+
+• Visualization: Created interactive visualizations and dashboards using Matplotlib and Seaborn.
 
 **Insights:**
 
-• Female passengers had higher survival rates.
+• Diagnosis Trends: Certain diagnoses incurred significantly higher treatment costs than others.
 
-• First-class passengers were more likely to survive.
+• Department Performance: Treatment costs varied across hospital departments, indicating differences in resource utilization.
 
-• Children showed better survival chances.
+• City-wise Distribution: Patient distribution differed across cities, highlighting areas with higher healthcare demand.
 
-• Higher fare-paying passengers had higher survival rates.
+• Hospital Stay Patterns: Length of stay varied by diagnosis, impacting hospital bed occupancy and planning.
 
-✅ **Result:** Generated actionable insights through data visualization and reporting.
+• Payment Analysis: Payment modes showed differences in average treatment costs.
+
+• Gender-wise Analysis: Patient demographics revealed notable trends across genders.
+
+✅ **Result:** Generated actionable healthcare insights through exploratory data analysis and visualization, supporting data-driven decision-making for hospital operations and resource management.
+
 
 🤖 **Customer Churn Prediction**
 
